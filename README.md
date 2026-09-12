@@ -98,12 +98,14 @@ CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 ADMIN_EMAIL=your_admin_email
 ADMIN_PASS=your_admin_password
 
-**Do not upload your actual `.env` file or secret credentials to GitHub.**
+
 
 ## Installation :
 
 git clone <your-github-repository-url>
+
 cd user_management
+
 npm install
 
 
